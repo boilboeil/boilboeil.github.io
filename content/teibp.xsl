@@ -302,7 +302,7 @@
 	 <head>
 	   <meta charset="UTF-8"/>
 	   
-	   <!--<link id="maincss" rel="stylesheet" type="text/css" href="{$teibpCSS}"/>-->
+	   <link id="maincss" rel="stylesheet" type="text/css" href="{$teibpCSS}"/>
 	   <link id="mainless" rel="stylesheet/less" type="text/css" href="{$teibpLESS}"/>
 	   <link id="customcss" rel="stylesheet" type="text/css" href="{$customCSS}"/>
 	   
