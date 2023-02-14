@@ -259,7 +259,7 @@
       <div>
         <head>Nested <gi>div</gi> elements and headings</head>
         <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida, urna eget venenatis mollis, ipsum tellus hendrerit tellus, sed vestibulum urna quam eget enim. Pellentesque odio lacus, laoreet quis commodo eu, vehicula congue purus. 
+	Lorem ipsum dolor sit <ref target="SpringandFall.xml">amet</ref>, consectetur adipiscing elit. Etiam gravida, urna eget venenatis mollis, ipsum tellus hendrerit tellus, sed vestibulum urna quam eget enim. Pellentesque odio lacus, laoreet quis commodo eu, vehicula congue purus. 
         </p>
         <div>
           <head>Nested <gi>div</gi> elements and headings</head>
