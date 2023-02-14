@@ -124,12 +124,12 @@
         </rendition>
         
         <!-- Alignment. -->
-        <!--<rendition xml:id="center" n="tiebp:center" scheme="css">
+        <rendition xml:id="center" n="tiebp:center" scheme="css">
           display:block;
           text-align:center;
           margin-left:auto;
           margin-right:auto;
-        </rendition>-->
+        </rendition>
         
         <rendition xml:id="left" n="teibp:left" scheme="css">
           text-align:left;
