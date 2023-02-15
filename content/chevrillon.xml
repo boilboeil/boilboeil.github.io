@@ -9,7 +9,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title ref="https://en.wikipedia.org/wiki/Andr%C3%A9_Chevrillon">André Chevrillon</title>
+                <title ref="https://en.wikipedia.org/wiki/Andr%C3%A9_Chevrillon">
+			<ref target="https://en.wikipedia.org/wiki/Andr%C3%A9_Chevrillon">André Chevrillon</ref>
+		</title>
             </titleStmt>
             <publicationStmt>
                 
