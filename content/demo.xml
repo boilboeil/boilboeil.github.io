@@ -432,27 +432,23 @@
             </titlePage>
             <pb n="42" facs="../images/birds_42.jpg"/>
             <div xml:id="preface002" rendition="#small #justify #center-block" style="width:30em;" type="preface">
-              <p> I <hi rendition="#sc">was</hi> allured into the audacity of this experiment by
-                consideration of a fact which hitherto does not seem to have been taken into consideration
-                by any translator of the half divine humourist in whose incomparable genius the highest
-                qualities of Rabelais were fused and harmonized with the supremest gifts of <persName key="shelley">Shelley</persName>:
-                namely, that his marvellous metrical invention of the anapæstic heptameter was almost
-                exactly reproducible in a language to which all variations and combinations of anapæstic, 
-                iambic, or trochaic metre are as natural and pliable as all dactylic and spondaic forms of
-                verse are unnatural and abhorrent. As it happens, this highest central interlude of a most
-                adorable masterpiece is as easy to detach from its dramatic setting, and even from its
-                lyrical context, as it was easy to give line for line of it in English. In two metrical
-                points only does my version vary from the verbal pattern of the original. I have of course
-                added rhymes, and double rhymes, as necessary makeweights for the imperfection of an
-                otherwise inadequate language; and equally of course I have not attempted the impossible
-                and undesirable task of reproducing the rare exceptional effect of a line overcharged on
-                purpose with a preponderance of heavy-footed spondees: and this for the obvious reason
-                that even if such a line—which I doubt—could be exactly represented, foot by foot and
-                pause for pause, in English, this English line would no more be a verse in any proper
-                sense of the word than is the line I am writing at this moment. And my main intention, or
-                at least my main desire, in the undertaking of this brief adventure, was to renew as far
-                as possible for English ears the music of this resonant and triumphant metre, which goes
-                ringing at full gallop as of horses who <cit rendition="#block">
+              <p> All these months I thought after all I had been mistaken; & my poor 'ame close' barred its shutters 
+		  & bolted its doors again & the dust gathered & the cobwebs thickened in the empty rooms where for a 
+		moment I had heard an echo ...
+		When you came to dine ... you said things that distressed me. At first it was exquisite. I had my 
+		work & you sat near the lamp & read me a page of Chevrillon's article in the Revue de Paris - the 
+		article on Meredith that I had told you about. And as I followed you, seeing your mind leap ahead 
+		as it always does, noting how you instantly singled out the finer values I had missed - 
+		discriminated, classified with that flashing illuminating sense of differences & relations that so 
+		distinguishes your thought - ah, the illusion I had of a life in which such evenings might be a 
+		dear accepted habit! At that moment indeed, 'the hour became the husband ... '
+		Why did you spoil it? Because men & women are different, because - in that respect in the way of 
+		mental companionship - what I can give you is so much less interesting, less arresting than what I 
+		receive from you? It was as if there stood between us at that moment the frailest of glass cups 
+		filled with a rare colourless wine - & with a gesture you broke the glass & spilled the drops.
+		You hurt me - you disillusioned me & when you left me I was
+more deeply yours ... Ah, the confused processes within us!
+ <cit rendition="#block">
                   <quote rendition="#blockquote" style="margin-left:5em;">
                     <lg>
                       <l part="F" rendition="#l-indent-06"><q next="#e171f002">dance as ’twere to the music</q></l>
