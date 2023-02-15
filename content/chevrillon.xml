@@ -260,7 +260,8 @@
     </teiHeader>
     <text>
 	<head rendition="#b #large">Letter from Edith Wharton to Charles Eliot Norton</head>
-	<head style="font-size:12pt">March 2, 1908</head>
+	<head rendition="#small">March 2, 1908</head>
+	    <!--style="font-size:12pt"-->
         <body>
             <div xml:id="preface002" rendition=" #small #justify #center-block" style="width:30em;" type="preface">
 		<p>Dear <ref target="feb21.xml">Mr. Norton</ref>,</p>
