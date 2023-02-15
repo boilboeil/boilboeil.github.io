@@ -262,7 +262,7 @@
 	<head rendition="#b #large">Letter from Edith Wharton to Charles Eliot Norton</head>
 	<head style="font-size:12pt">March 2, 1908</head>
         <body>
-            <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
+            <div xml:id="preface002" rendition=" #small #justify #center-block" style="width:30em;" type="preface">
 		<p>Dear <ref target="feb21.xml">Mr. Norton</ref>,</p>
 		<p rendition="#indent">I was delighted to get your charming letter by hand of <ref target="feb21.xml">Sally</ref>, but
                     distressed to think that the obligation to write it should all this time
