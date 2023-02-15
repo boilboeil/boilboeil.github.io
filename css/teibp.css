@@ -1148,6 +1148,8 @@ availability > p:first-child {
 }
 div > p {
   display: block;
+  margin-top: 0em;
+  margin-bottom: 0em;
   text-align: justify;
 }
 pRef {
