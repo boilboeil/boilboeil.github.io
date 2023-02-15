@@ -1146,6 +1146,10 @@ p {
 availability > p:first-child {
   margin-top: 0em;
 }
+div > p {
+  display: block;
+  text-align: justify;
+}
 pRef {
   /* rend attribute target */
 }
@@ -1689,7 +1693,7 @@ border-radius: 15px;
 border: 1px solid black;
 background:white;
 */
-  line-height: 1.0;
+  line-height: 1.5;
 }
 textClass {
   display: none;
