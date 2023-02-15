@@ -430,7 +430,7 @@
                   metre</titlePart>
               </docTitle>
             </titlePage>
-            <pb n="42" facs="../images/birds_42.jpg"/>
+            <pb n="42&#xA&#xA&#xA&#xA&#xA" facs="../images/birds_42.jpg"/>
             <div xml:id="preface002" rendition="#small #justify #center-block" style="width:30em;" type="preface">
 		    <head>February 21, 1908</head>
               <p> All these months I thought after all I had been mistaken; &amp; my poor 'ame close' barred its shutters 
