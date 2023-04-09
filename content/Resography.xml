@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">End of the prototype</title>
+          <title type="menu">Resography</title>
       </titleStmt>
       <publicationStmt>
         
@@ -260,8 +260,14 @@
     <body>
      
         
-            <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
-              <p>You have reached the end of the prototype.</p>
+            <div rendition=" #small #justify" style="width:30em;">
+			  <p><ref type="text" subtype="article" author="Kellogg, Vernon Lyman" target="endofprototype.xml">Darwinism Today</ref></p>
+              <p><ref type="text" subtype="article" author="Tesla, Nikola" language="English" target="endofprototype.xml">High Frequency Oscillators for Electro-Therapeutic and Other Purposes</ref></p>
+			  <p rendition="#i"><ref type="text" subtype="monograph" author="Berard, Victor" language="French" target="endofprototype.xml">Homere et les Pheniciens</ref></p>
+			  <p><ref type="text" subtype="poem" author="Wharton, Edith" target="endofprototype.xml">The Old Pole-Star</ref></p>
+			  <p><ref type="periodical" subtype="magazine" target="endofprototype.xml">Revue de Paris</ref></p>
+			  <p><ref type="periodical" subtype="newspaper" target="endofprototype.xml">The Times</ref></p>
+			  <p><ref type="celestial_object" subtype="star" target="endofprototype.xml">Vega</ref></p>
                   
       </div>
     </body>

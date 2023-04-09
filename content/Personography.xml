@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">End of the prototype</title>
+          <title type="menu">Personography</title>
       </titleStmt>
       <publicationStmt>
         
@@ -260,8 +260,26 @@
     <body>
      
         
-            <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
-              <p>You have reached the end of the prototype.</p>
+            <div rendition=" #small #justify" style="width:30em;">
+              <p><ref target="endofprototype.xml">Berard, Victor</ref></p>
+			  <p><ref target="chevrillon.xml">Chevrillon, André</ref></p>
+			  <p><ref target="endofprototype.xml">Fullerton, William Morton</ref></p>
+			  <p><ref target="endofprototype.xml">Harmsworth, Alfred Charles</ref></p>
+			  <p><ref target="endofprototype.xml">Kellogg, Vernon Lyman</ref></p>
+			  <p><ref target="endofprototype.xml">Kinnicutt, Francis</ref></p>
+			  <p><ref target="endofprototype.xml">Macmillan, Frederick</ref></p>
+			  <p><ref target="endofprototype.xml">Meredith, George</ref></p>
+			  <p><ref target="endofprototype.xml">Norton, Charles Eliot</ref></p>
+			  <p><ref target="endofprototype.xml">Norton, Elizabeth</ref></p>
+			  <p><ref target="endofprototype.xml">Norton, Sara</ref></p>
+			  <p><ref target="endofprototype.xml">Rensselaer Berry, Walter van</ref></p>
+			  <p><ref target="endofprototype.xml">Rhinelander, Frederic</ref></p>
+			  <p><ref target="endofprototype.xml">Taine, Hippolyte</ref></p>
+			  <p><ref target="endofprototype.xml">Tardieu, André</ref></p>
+			  <p><ref target="endofprototype.xml">Todd, David</ref></p>
+			  <p><ref target="endofprototype.xml">Wharton, Edith</ref></p>
+			  <p><ref target="endofprototype.xml">Wharton, Edward Robbins</ref></p>
+			  
                   
       </div>
     </body>

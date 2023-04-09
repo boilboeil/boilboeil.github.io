@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">End of the prototype</title>
+          <title type="menu">Placeography</title>
       </titleStmt>
       <publicationStmt>
         
@@ -260,9 +260,14 @@
     <body>
      
         
-            <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
-              <p>You have reached the end of the prototype.</p>
-                  
+            <div rendition=" #small #justify" style="width:30em;">
+              <p><ref type="dwelling" target="endofprototype.xml">58 Rue de Varenne</ref></p>
+			  <p><ref type="city" target="endofprototype.xml">Cambridge</ref></p>
+			  <p><ref type="country" target="endofprototype.xml">India</ref></p>
+			  <p><ref type="country" target="endofprototype.xml">Japan</ref></p>
+			  <p><ref type="city" target="endofprototype.xml">London</ref></p>
+			  <p><ref type="landmark" target="endofprototype.xml">Saratoga Spa State Park</ref></p>
+              <p><ref type="country" target="endofprototype.xml">The United States of America</ref></p>    
       </div>
     </body>
   </text>

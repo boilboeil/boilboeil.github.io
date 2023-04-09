@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">Diary Entries</title>
+          <title type="menu">Diary Entries</title>
       </titleStmt>
       <publicationStmt>
         
@@ -260,7 +260,7 @@
     <body>
      
         
-            <div rendition=" #small #justify" style="width:30em;"
+            <div rendition=" #small #justify" style="width:30em;">
               <p><ref target="feb21.xml">February 21, 1904</ref></p>
                   
       </div>
