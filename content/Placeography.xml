@@ -260,7 +260,7 @@
     <body>
      
         
-            <div rendition=" #small #justify" style="width:30em;">
+            <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
               <p>You have reached the end of the prototype.</p>
                   
       </div>

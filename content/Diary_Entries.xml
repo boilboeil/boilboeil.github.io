@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">End of the prototype</title>
+          <title type="entry">Diary Entries</title>
       </titleStmt>
       <publicationStmt>
         
@@ -260,8 +260,8 @@
     <body>
      
         
-            <div rendition=" #small #justify" style="width:30em;">
-              <p>You have reached the end of the prototype.</p>
+            <div rendition=" #small #justify" style="width:30em;"
+              <p><ref target="feb21.xml">February 21, 1904</ref></p>
                   
       </div>
     </body>
