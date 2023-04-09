@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>
+                <title type="person">
                     <ref target="https://en.wikipedia.org/wiki/Andr%C3%A9_Chevrillon">André Chevrillon</ref>
                 </title>
             </titleStmt>
@@ -26,7 +26,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <p>This TEI/XML document is the original source</p>
+                <p>Lewis, R. W. B., and Nancy Lewis, editors. The Letters of Edith Wharton. Charles Scribner’s Sons, 1988.</p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -264,59 +264,58 @@
 	    <!--style="font-size:12pt"-->
         <body>
             <div xml:id="preface002" rendition=" #small #justify #center-block" style="width:30em;" type="preface">
-		<p>Dear <ref target="feb21.xml">Mr. Norton</ref>,</p>
-		<p rendition="#indent">I was delighted to get your charming letter by hand of <ref target="feb21.xml">Sally</ref>, but
+		<p>Dear <ref type="person" target="endofprototype.xml">Mr. Norton</ref>,</p>
+		<p rendition="#indent">I was delighted to get your charming letter by hand of <ref type="person" target="endofprototype.xml">Sally</ref>, but
                     distressed to think that the obligation to write it should all this time
                     have been looming on your horizon.—I was more than thanked by the
                     note you sent me before we sailed, had thanks been needed in return
                     for the expression of affection I was so glad to have an excuse for
                     making!—</p>
-                <p rendition="#indent">Since I last wrote to Sally, <ref target="feb21.xml">Teddy</ref> has quite recovered from
-			his attack
-                    of neurasthenia, &amp; is in his "assiette ordinaire"; but his troublesome
-                    gout still persists, &amp; the <ref target="feb21.xml">Dr.</ref> thinks that only baths will really cure it,
+                <p rendition="#indent">Since I last wrote to Sally, <ref type="person" target="endofprototype.xml">Teddy</ref> has quite recovered from
+					his attack of neurasthenia, &amp; is in his "assiette ordinaire"; but his troublesome
+                    gout still persists, &amp; the <ref type="person" target="endofprototype.xml">Dr.</ref> thinks that only baths will really cure it,
                     as the gout medicines have exhausted their efficacy.—There is no good
                     cure here to which one can go at this season, &amp; he thinks of sailing a
-                    few weeks before me, &amp; taking the baths at <ref target="feb21.xml">the Hot Springs</ref> early in
+                    few weeks before me, &amp; taking the baths at <ref type="place" target="endofprototype.xml">the Hot Springs</ref> early in
                     April, as he is most anxious not to be laid up this summer. If he does
-                    this, I shall stay on here till the lease of <ref target="feb21.xml">this apartment</ref> expires, &amp; then
-                    perhaps go to <ref target="feb21.xml">my brother</ref> for a short time, &amp; sail about May 20th.
+                    this, I shall stay on here till the lease of <ref type="place" target="endofprototype.xml">this apartment</ref> expires, &amp; then
+                    perhaps go to <ref type="person" target="endofprototype.xml">my brother</ref> for a short time, &amp; sail about May 20th.
                     —
                     But we shall not decide for another week.—</p>
-                <p rendition="#indent">When <ref rendition="#u" target="feb21.xml">Sally</ref> last wrote she asked me to ask
-			<ref target="feb21.xml">Mr. Fullerton</ref> about the
-                    fate of <ref target="feb21.xml">the Times.</ref>—Will you tell her from me that he has been almost
+                <p rendition="#indent">When Sally last wrote she asked me to ask
+			<ref type="person" target="endofprototype.xml">Mr. Fullerton</ref> about the
+                    fate of <ref type="thing" target="endofprototype.xml">the Times.</ref>—Will you tell her from me that he has been almost
                     as much in the dark as the public, but he dined here last week, &amp; met
-                    <ref target="feb21.xml">Mr. Frederick Macmillan</ref>, fresh from <ref target="feb21.xml">London</ref>, who was much better
-                    informed than the Times office here, &amp; who fears that <ref target="feb21.xml">Harmsworth</ref>
-                    (worse than Pearson!) will buy the paper. In that case, Mr. Fullerton &amp;
+                    <ref type="person" target="endofprototype.xml">Mr. Frederick Macmillan</ref>, fresh from <ref type="place" target="endofprototype.xml">London</ref>, who was much better
+                    informed than the Times office here, &amp; who fears that <ref type="person" target="endofprototype.xml">Harmsworth</ref>
+                    (worse than <ref type="person" target="endofprototype.xml">Pearson</ref>!) will buy the paper. In that case, Mr. Fullerton &amp;
                     the other correspondents would probably all leave, &amp; they are naturally
                     anxious at present.—Mr. Macmillan seemed to think that something
                     would be decided very shortly.—</p>
                 <p rendition="#indent">Will you please also thank Sally for sending me the various articles
-                    on my namesake's play, &amp; also the "Violet Ray" article, which I had
-                    already, &amp; which is most interesting.—I wonder if she has seen "Darwinism
-                    Today" by Kellogg? I am told it is admirable.—</p>
-                <p rendition="#indent">You will both be amused to hear that my verses on "The Old Pole
-                    Star" have called forth a burst of praise from Professor David Todd of
-                    Amherst, the astronomer, who invites me to write a sequel on Vega,
+                    on my namesake's play, &amp; also the <ref type="thing" target="endofprototype.xml">"Violet Ray"</ref> article, which I had
+                    already, &amp; which is most interesting.—I wonder if she has seen <ref type="thing" target="endofprototype.xml">"Darwinism
+                    Today"</ref> by <ref type="person" target="endofprototype.xml">Kellogg</ref>? I am told it is admirable.—</p>
+                <p rendition="#indent">You will both be amused to hear that my verses on <ref type="thing" target="endofprototype.xml">"The Old Pole
+                    Star"</ref> have called forth a burst of praise from <ref type="person" target="endofprototype.xml">Professor David Todd</ref> of
+                    Amherst, the astronomer, who invites me to write a sequel on <ref type="thing" target="endofprototype.xml">Vega</ref>,
                     "the Polaris of the future"—&amp; winds up eloquently, &amp; elegantly:—</p>
                 <p rendition="#indent">"Our cold facts (astronomical, he means) are staggering enough, &amp;
                     poetic too; but it takes a mighty dainty word-juggler to put them in
                     acceptable metre."—</p>
                 <p rendition="#indent">We see very interesting people here, &amp; I like the life more &amp; more.
-                    I like especially Andre Chevrillon, Taine's nephew, whose admirable
-                    books on India &amp; the East you probably know, &amp; who is a man of the
-                    finest quality all through. Mr. Victor Berard, the author of the big book
-                    "Homere et les Pheniciens," is another of the same kind, but so desperately
+                    I like especially <ref type="person" target="chevrillon.xml">Andre Chevrillon</ref>, <ref type="person" target="chevrillon.xml">Taine</ref>'s nephew, whose admirable
+                    books on <ref type="place" target="endofprototype.xml">India</ref> &amp; the East you probably know, &amp; who is a man of the
+                    finest quality all through. <ref type="person" target="endofprototype.xml">Mr. Victor Berard</ref>, the author of the big book
+                    <ref type="thing" target="endofprototype.xml">"Homere et les Pheniciens,"</ref> is another of the same kind, but so desperately
                     hard-worked that one can hardly see him.—And in society the
                     average of intelligence is certainly higher than elsewhere, &amp; one is less
                     likely to spend a dull evening.</p>
-                <p rendition="#indent">I wonder if you saw Mr. Tardieu,^ &amp; found him as cheery &amp; companionable
-                    as we did.^—Mr. Berry* wrote me that his prophecies of war
-                    between Japan &amp; the U.S. were considered rather ill-advised, &amp; that
-                    Jusserand was disturbed.—Did you get that impression in Cambridge.</p>
-                <p rendition="#indent">I was glad to hear from Sally that Lily was quite convalescent again.</p>
+                <p rendition="#indent">I wonder if you saw <ref type="person" target="endofprototype.xml">Mr. Tardieu</ref>, &amp; found him as cheery &amp; companionable
+                    as we did.—<ref type="person" target="endofprototype.xml">Mr. Berry</ref> wrote me that his prophecies of war
+                    between <ref type="place" target="endofprototype.xml">Japan</ref> &amp; <ref type="place" target="endofprototype.xml">the U.S.</ref> were considered rather ill-advised, &amp; that
+                    <ref type="person" target="endofprototype.xml">Jusserand</ref> was disturbed.—Did you get that impression in <ref type="place" target="endofprototype.xml">Cambridge.</ref></p>
+                <p rendition="#indent">I was glad to hear from Sally that <ref type="person" target="endofprototype.xml">Lily</ref> was quite convalescent again.</p>
                 <p rendition="#indent">This carries a great deal of love to you all, &amp; many messages from
                     Teddy—&amp; for you, dear Mr. Norton, the affectionate thoughts of your
                     friend</p>

@@ -9,7 +9,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-          <title type="entry">February 21, 1908</title>
+          <title type="entry">End of the prototype</title>
       </titleStmt>
       <publicationStmt>
         
@@ -24,7 +24,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Wharton, Edith. The Life Apart. 1904. The Lilly Library, Indiana University.</p>
+        <p>This is an original document.</p>
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
@@ -261,22 +261,7 @@
      
         
             <div xml:id="preface002" rendition=" #small #justify" style="width:30em;" type="preface">
-              <p>All these months I thought after all I had been mistaken; &amp; my poor 'âme close' barred its shutters 
-		  &amp; bolted its doors again &amp; the dust gathered &amp; the cobwebs thickened in the empty rooms where for a 
-		      moment I had heard an echo ...</p>
-		<p rendition="#indent">When <ref type="person" target="endofprototype.xml">you</ref> came to dine ... you said things that distressed me. At first it was exquisite. I had my 
-		work &amp; you sat near the lamp &amp; read me a page of <ref type="person" target="chevrillon.xml">Chevrillon</ref>'s article in the <ref type="thing" target="endofprototype.xml">Revue de Paris</ref> - the 
-		      article on <ref type="person" target="endofprototype.xml">Meredith</ref> that I had told you about. And as I followed you, seeing your mind leap ahead 
-		as it always does, noting how you instantly singled out the finer values I had missed - 
-		discriminated, classified with that flashing illuminating sense of differences &amp; relations that so 
-		distinguishes your thought - ah, the illusion I had of a life in which such evenings might be a 
-			dear accepted habit! At that moment indeed, 'the hour became the husband ... '</p>
-		<p rendition="#indent">Why did you spoil it? Because men &amp; women are different, because - in that respect in the way of 
-		mental companionship - what I can give you is so much less interesting, less arresting than what I 
-		receive from you? It was as if there stood between us at that moment the frailest of glass cups 
-		filled with a rare colourless wine - &amp; with a gesture you broke the glass &amp; spilled the drops.</p>
-		<p rendition="#indent">You hurt me - you disillusioned me &amp; when you left me I was
-more deeply yours ... Ah, the confused processes within us!</p>
+              <p>You have reached the end of the prototype.</p>
                   
       </div>
     </body>
